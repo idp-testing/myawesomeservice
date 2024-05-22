@@ -1,0 +1,2 @@
+# myawesomeservice
+Generated Repository
